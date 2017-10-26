@@ -1,0 +1,33 @@
+﻿enter 1st polynomial	enter coeff as -999 to end polynomial
+enter 1 term
+coeff= 9
+pow x= 5
+enter 2 term
+coeff= -7
+pow x= 3
+enter 3 term
+coeff= -5
+pow x= 1
+enter 4 term
+coeff= -999
+enter 2nd polynomial	enter coeff as -999 to end polynomial
+enter 1 term
+coeff= 8
+pow x= 4
+enter 2 term
+coeff= -6
+pow x= 2
+enter 3 term
+coeff= 4
+pow x= 0
+enter 4 term
+coeff= -999
+polynomial 1
+
++ 9x^ 5-7x^ 3-5x^ 1
+polynomial 2
+
++ 8x^ 4-6x^ 2+ 4x^ 0
+addition of two pollynomails is
+
++ 9x^ 5+ 8x^ 4-7x^ 3-6x^ 2-5x^ 1+ 4x^ 0

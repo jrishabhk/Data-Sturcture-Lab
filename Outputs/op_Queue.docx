@@ -1,0 +1,32 @@
+﻿press 1:insert  2:delete  3:display  4:exit 
+1
+enter the item
+101
+press 1:insert  2:delete  3:display  4:exit 
+1
+enter the item
+51
+press 1:insert  2:delete  3:display  4:exit 
+1
+enter the item
+9
+press 1:insert  2:delete  3:display  4:exit 
+3
+the contnts of queue are
+101
+51
+9
+press 1:insert  2:delete  3:display  4:exit 
+2
+deleted item is 101=press 1:insert  2:delete  3:display  4:exit 
+1
+enter the item
+6
+press 1:insert  2:delete  3:display  4:exit 
+3
+the contnts of queue are
+51
+9
+6
+press 1:insert  2:delete  3:display  4:exit 
+4

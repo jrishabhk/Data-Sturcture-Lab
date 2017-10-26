@@ -1,0 +1,43 @@
+﻿enter choice
+1:push 2:pop 3:exit1
+enter element
+23
+stack elements are
+23
+enter choice
+1:push 2:pop 3:exit1
+enter element
+29
+stack elements are
+29
+23
+enter choice
+1:push 2:pop 3:exit1
+enter element
+37
+stack elements are
+37
+29
+23
+enter choice
+1:push 2:pop 3:exit1
+enter element
+47
+stack elements are
+47
+37
+29
+23
+enter choice
+1:push 2:pop 3:exit2
+popped item is47stack elements are
+37
+29
+23
+enter choice
+1:push 2:pop 3:exit2
+popped item is37stack elements are
+29
+23
+enter choice
+1:push 2:pop 3:exit3

@@ -1,0 +1,61 @@
+﻿enter the number of rows
+5
+enter the number of column6
+enter the elements of the matrix
+0
+0
+2
+0
+5
+0
+0
+0
+9
+0
+0
+07
+000
+0
+0
+0
+0
+0
+44
+0
+100
+0
+56
+0
+753
+0
+1
+4
+0
+0
+sparse matrix in triple form is
+<Row  Column  Value>
+
+5	6	10
+
+0	2	2
+
+0	4	5
+
+1	2	9
+
+1	5	7
+
+3	0	44
+
+3	2	100
+
+3	4	56
+
+4	0	753
+
+4	2	1
+
+4	3	4
+enter the element to be searched
+7
+search succesful

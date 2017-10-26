@@ -1,0 +1,54 @@
+﻿1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+1
+Enter the item
+35
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+1
+Enter the item
+56
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+1
+Enter the item
+89
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+2
+Enter the key to search
+89
+Enter the node to insert to the left of the specified node
+76
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+4
+The contents of the circular DLL is
+76
+89
+56
+35
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+3
+Enter the key to delete
+56
+
+the deleted node with info is 56
+1. Insert_front 2. Insert_left 3. Delete_key
+ 4. Display 5. Exit
+
+Enter your choice
+5

@@ -1,0 +1,24 @@
+﻿1.insert 2.delete 3.display 4.exit
+enter the choice	1
+enter the item	5
+1.insert 2.delete 3.display 4.exit
+enter the choice	1
+enter the item	5
+1.insert 2.delete 3.display 4.exit
+enter the choice	1
+enter the item	9
+1.insert 2.delete 3.display 4.exit
+enter the choice	3
+
+ the contents are
+9
+5
+5
+1.insert 2.delete 3.display 4.exit
+enter the choice	1
+enter the item	4
+1.insert 2.delete 3.display 4.exit
+enter the choice	2
+the deleted item is	4
+1.insert 2.delete 3.display 4.exit
+enter the choice	4

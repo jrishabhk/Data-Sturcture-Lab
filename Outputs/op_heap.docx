@@ -1,0 +1,61 @@
+﻿1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+25
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+26
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+27
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+48
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+50
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+89
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+99
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+100
+1.insert  2.display  3.exit
+enter your choice
+1
+enter the item to be inserted
+500
+1.insert  2.display  3.exit
+enter your choice
+2
+the max heap content are
+500
+100
+89
+99
+27
+26
+50
+25
+48
+1.insert  2.display  3.exit
+enter your choice
+3

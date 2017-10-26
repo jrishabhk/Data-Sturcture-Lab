@@ -1,0 +1,84 @@
+﻿ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+5
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+89
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+4
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+65
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+54
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+45
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+87
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+100
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+500
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+23
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+60
+
+ 1.insert  2.display  3.exit
+enter your choice
+1
+enter the item
+91
+
+ 1.insert  2.display  3.exit
+enter your choice
+2
+displaying preorder
+5	4	89	65	54	45	23	60	87	100	91	500	
+ displaying inorder
+4	5	23	45	54	60	65	87	89	91	100	500	
+ displaying postorder
+4	23	45	60	54	87	65	91	500	100	89	5	
+ 1.insert  2.display  3.exit
+enter your choice
+3

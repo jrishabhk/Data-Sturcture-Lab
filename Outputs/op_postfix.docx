@@ -1,0 +1,20 @@
+﻿
+
+
+
+
+OUTPUT:
+
+Enter the postfix expression
+45-25*+98-/
+The result is 1.117647
+
+
+Enter the postfix expression
+56^+25-2/
+The result is 3.500000
+
+
+Enter the postfix expression
+89*85/+54-
+The result is 9.000000
